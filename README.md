@@ -77,10 +77,24 @@ options:
 You can either connect the barcode scanner via a serial port or use the built-in virtual serial port function.
 
 To use this function, you need to scan the following QR code. (You may need to manually trigger scanning the first time to do this, but once enabled, this setting is persistant until reset)
-
-![](utility_qr_codes/gm65/enable_virtual_usb.png)
+![M3Y-W_Scanner_USB-CBC_Mode](https://github.com/user-attachments/assets/86a0ded0-19d8-4129-8c0c-3825b6151dd1)
 
 ### Factory Reset the Scanner
 To reset all of the settings back to their defaults, scan this code.
 
 ![](utility_qr_codes/gm65/factory_reset.png)
+
+## M3Y-W Specific Options
+
+### Enabeling USB-CDC
+You can either connect the barcode scanner via a serial port or use the built-in virtual serial port function.
+
+To use this function, you need to scan the following QR code. (You may need to manually trigger scanning the first time to do this, but once enabled, this setting is persistant until reset)
+
+![M3Y-W_Scanner_USB-CBC_Mode](https://github.com/user-attachments/assets/eda06ac3-294d-492a-a7bf-ed6f4e712380)
+
+### Restore to factory default
+To reset all of the settings back to their defaults, scan this code.
+
+![image](https://github.com/user-attachments/assets/0320161f-ccff-4e0d-939c-2c5765b9d4c2)
+
